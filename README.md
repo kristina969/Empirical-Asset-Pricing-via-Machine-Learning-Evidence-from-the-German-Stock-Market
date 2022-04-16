@@ -1,5 +1,4 @@
 # Empirical-Asset-Pricing-via-Machine-Learning-Evidence-from-the-German-Stock-Market
-Machine learning methods for identifing investment factors
 
 
 References:
