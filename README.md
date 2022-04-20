@@ -1,4 +1,4 @@
-# Empirical-Asset-Pricing-via-Machine-Learning-Evidence-from-the-German-Stock-Market
+# Empirical Asset Pricing via Machine Learning: Evidence from the German Stock Market
 
 
 References:
